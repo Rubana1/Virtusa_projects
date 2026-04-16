@@ -46,7 +46,7 @@ A data-driven inventory system that identifies expiring products, detects dead s
 - SQL (MySQL, Data Analysis)
 
 ## AUTHOR
-RUBANA P
+RUBANA P  B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 
 EMAIL: [rubanap691@gmail.com]
 
