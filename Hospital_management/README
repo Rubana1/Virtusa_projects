@@ -1,40 +1,46 @@
-# Hospital Management & Patient Analytics System
+# 🏥 Hospital Management & Patient Analytics System
 
-## Business Case
+## 📌 Business Case
 Hospitals require efficient systems to manage patient records and analyze treatment data.  
 This project helps in organizing hospital data and generating useful insights for better decision-making.
 
-## Problem Statement
+---
+
+## 🎯 Problem Statement
 Design a database system that:
 - Stores patient, doctor, appointment, and treatment data
 - Performs analytical queries on hospital operations
 
-## Objectives
+---
+
+## 🎯 Objectives
 - Store structured hospital data
 - Track appointments and treatments
 - Analyze performance and revenue
 - Provide meaningful insights
 
-## Database Tables
+---
 
-###Patients
+## 🗄️ Database Tables
+
+### 👤 Patients
 - patient_id
 - name
 - age
 - gender
 
-### Doctors
+### 👨‍⚕️ Doctors
 - doctor_id
 - name
 - specialization
 
-### Appointments
+### 📅 Appointments
 - appointment_id
 - patient_id
 - doctor_id
 - date
 
-### Treatments
+### 💊 Treatments
 - treatment_id
 - patient_id
 - diagnosis
@@ -43,44 +49,46 @@ Design a database system that:
 
 ---
 
-## Key Features
+## 🚀 Key Features
 
-- Manage patient records
-- Track doctor appointments
-- Store treatment details
-- Analyze hospital performance
+- ✅ Manage patient records
+- ✅ Track doctor appointments
+- ✅ Store treatment details
+- ✅ Analyze hospital performance
 
 ---
 
-## SQL Queries (Reports)
+## 📊 SQL Queries (Reports)
 
-### Most Consulted Doctors
+### 🔹 Most Consulted Doctors
 - Identifies doctors with highest patient visits
 
-### Total Revenue Per Month
+### 🔹 Total Revenue Per Month
 - Calculates monthly earnings from treatments
 
-### Most Common Diseases
+### 🔹 Most Common Diseases
 - Finds frequently occurring diagnoses
 
-### Patient Visit Frequency
+### 🔹 Patient Visit Frequency
 - Tracks how often patients visit the hospital
 
-### Doctor Performance
+### 🔹 Doctor Performance
 - Evaluates doctors based on:
   - Number of patients handled
   - Revenue generated
 
+---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - SQL
 - MySQL
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 1. Open MySQL Workbench or Command Line
-2. Run the SQL script: 
+2. Run the SQL script:
 
-
+```sql
+SOURCE hospital_management.sql;
