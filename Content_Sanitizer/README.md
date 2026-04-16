@@ -1,30 +1,30 @@
-SocialMedia Content Sanitizer (Python Project)
+### SocialMedia Content Sanitizer (Python Project)
 
-Business Case
+### Business Case
 A startup is building a safe social media platform for schools.  
 This project helps in automatically screening user posts by detecting inappropriate words and extracting links for security review.
 
-Problem Statement
+### Problem Statement
 Build a content moderator script that:
 - Scans posts
 - Replaces banned words with ***
 - Extracts URLs
 - Generates reports for moderation
 
- Features
+ ### Features
 - List processing of social media posts
 - Word masking using banned words list
 - Link extraction and storage
 - User-wise flag tracking
 - Final moderation report
 
-Technologies Used
+### Technologies Used
 - Python
 - Basic string operations
 - File handling
 
 
-How It Works
+### How It Works
 
 ### 1. Input Data
 - List of posts containing user and text
