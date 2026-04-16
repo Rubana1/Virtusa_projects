@@ -25,7 +25,7 @@ A smart tool that analyzes resumes using NLP, matches skills with job descriptio
 ### 4. SocialMedia Content Sanitizer (Python)
 A content moderation system that filters banned words, extracts links, and generates reports to ensure safe social media usage.
 
- Project Link: [Add Link Here]
+ Project Link: [https://github.com/Rubana1/Virtusa_projects/tree/main/Content_Sanitizer]
 
 
 ### 5. Hospital Management & Patient Analytics System (SQL)
@@ -47,5 +47,6 @@ A data-driven inventory system that identifies expiring products, detects dead s
 
 ## AUTHOR
 RUBANA P
-EMAIL: rubanap691@gmail.com
+
+EMAIL: [rubanap691@gmail.com]
 
